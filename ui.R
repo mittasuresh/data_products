@@ -21,7 +21,10 @@ shinyUI(pageWithSidebar(
                 h4("Your Findings"),
                 verbatimTextOutput("advicestring"),
                 
-                p("Reference: https://en.wikipedia.org/wiki/Body_mass_index")
+                p("Reference: https://en.wikipedia.org/wiki/Body_mass_index"),
+                
+                
+                p("Documentation can be found here: https://github.com/mittasuresh/data_products/blob/master/Documentation.Rmd")
                 )
         
         ))
