@@ -1,0 +1,30 @@
+---
+title: "Documentation for BMI Calculator"
+author: "Mitta Suresh"
+date: "Sunday, June 14, 2015"
+output: html_document
+---
+
+## Introduction:
+
+BMI Calculator is a Shiny App developed as part of the Data Products Class. This app calculates the BMI(Body Mass Index) based on a persons height and weight. BMI is widely used measure in health care community.
+
+You can access the app here:
+https://mittasuresh.shinyapps.io/BMI_Calculator
+
+
+## Instructions to use:
+
+Enter the height in (inches or cm) in the text box. Choose the units of height by selecting appropriate radio button.
+
+Repeat the same for the weight input. Enter the numeric value int he text box, and select the lbs or Kgs radio button.
+
+Once the values are entered, Press Submit button.
+
+The entered values, the calculated BMI and a commentary are displayed in the main panel. 
+
+## References:
+
+https://en.wikipedia.org/wiki/Body_mass_index
+
+
